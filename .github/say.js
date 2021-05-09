@@ -1,0 +1,6 @@
+message.send.commands('')
+param.bot.discord('psaybackup.env')
+bot.disallow.message('noallow.js')
+.setEmbed()
+.setTitle($message.allow)
+message.kill.nuke('no')
